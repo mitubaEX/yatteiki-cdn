@@ -1,3 +1,2 @@
 class ShowMitubaController < ApplicationController
-  
 end
